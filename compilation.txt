@@ -1,0 +1,42 @@
+Status: Compilation successful.
+
+Compilation Summary
+-------------------
+
+Logic Utilization: 
+ Number of Slice Registers:           1370  out of  51840     2%  
+ Number of Slice LUTs:                1562  out of  51840     3%  
+    Number used as Logic:             1556  out of  51840     3%  
+    Number used as Memory:               6  out of  13440     0%  
+       Number used as SRL:               6
+Slice 
+Device Utilization Summary:
+   Number of BUFGs                           3 out of 32      9%
+   Number of ILOGICs                        46 out of 560     8%
+   Number of External IOBs                 132 out of 440    30%
+      Number of LOCed IOBs                 132 out of 132   100%
+   Number of IODELAYs                       54 out of 560     9%
+   Number of OLOGICs                         5 out of 560     1%
+   Number of Slice Registers              1321 out of 51840   2%
+      Number used as Flip Flops           1321
+      Number used as Latches                 0
+      Number used as LatchThrus              0
+   Number of Slice LUTS                   1571 out of 51840   3%
+   Number of Slice LUT-Flip Flop pairs    2057 out of 51840   3%
+
+Clock Rates: (Requested rates are adjusted for jitter and accuracy) 
+  Base clock: 40 MHz Onboard Clock
+      Requested Rate:      40.408938MHz 
+      Theoretical Maximum: 75.488790MHz
+  Base clock: MiteClk (Used by non-diagram components)
+      Requested Rate:      33.037101MHz 
+      Theoretical Maximum: 74.704916MHz
+  Base clock: ReliableClk40 (Used by non-diagram components)
+      Requested Rate:      40.408938MHz 
+      Theoretical Maximum: 200.762899MHz
+
+
+
+Start Time: 7/3/2009 6:34:14 PM
+End Time: 7/3/2009 6:42:00 PM
+
