@@ -248,7 +248,7 @@
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_enableDebugging" Type="Bool">true</Property>
 				<Property Name="App_fileDescription" Type="Str">EIT Pulse Generator</Property>
-				<Property Name="App_fileVersion.build" Type="Int">1</Property>
+				<Property Name="App_fileVersion.build" Type="Int">3</Property>
 				<Property Name="App_fileVersion.major" Type="Int">1</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{A212D723-227D-43C8-BED6-C74EDD7C4984}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{CB5ECFFF-3488-4D55-8385-361AF5077E10}</Property>
