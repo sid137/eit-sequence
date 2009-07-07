@@ -265,8 +265,6 @@
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
-				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
-				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="Spartan3ESession.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Targets/FPGA/XUPSpartan3E/Spartan3ESession.ctl"/>
 				<Item Name="Semaphore Refnum Core.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Semaphore Refnum Core.ctl"/>
@@ -283,6 +281,8 @@
 				<Item Name="Spartan3E_GetSemaphoreName.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Targets/FPGA/XUPSpartan3E/Spartan3E_GetSemaphoreName.vi"/>
 				<Item Name="Spartan3E_ReadBigControlVI.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Targets/FPGA/XUPSpartan3E/Spartan3E_ReadBigControlVI.vi"/>
 				<Item Name="nilvcse.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Targets/nilvcse/nilvcse.dll"/>
+				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
+				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 			</Item>
 			<Item Name="vi.lib/LabVIEW Targets/nilvcse/nilvcse.dll" Type="Document" URL="vi.lib/LabVIEW Targets/nilvcse/nilvcse.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
