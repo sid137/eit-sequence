@@ -231,6 +231,7 @@
 		<Item Name="array bit masking.vi" Type="VI" URL="../../../Sidney/test/array bit masking.vi"/>
 		<Item Name="OPO Monitor.vi" Type="VI" URL="../OPO Monitor.vi"/>
 		<Item Name="Timing Helper.vi" Type="VI" URL="../Timing Helper.vi"/>
+		<Item Name="5122only.vi" Type="VI" URL="../5122only.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="nirio_resource_hc.ctl" Type="VI" URL="/&lt;vilib&gt;/userDefined/High Color/nirio_resource_hc.ctl"/>
