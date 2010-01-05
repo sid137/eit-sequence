@@ -477,18 +477,6 @@
 				<Item Name="nirviEmuTemplateMethod_noerrors.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuTemplateMethod_noerrors.vi"/>
 				<Item Name="nirviCommon.vi" Type="VI" URL="/&lt;vilib&gt;/express/rvi/timingcommon/nirviCommon.vi"/>
 				<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
-				<Item Name="NI.Munge.niFpgaDdsAccum.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.niFpgaDdsAccum.vi"/>
-				<Item Name="NI.Munge.Divide by Two.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.Divide by Two.vi"/>
-				<Item Name="NI.Munge.niFPGA Boolean Crossing.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.niFPGA Boolean Crossing.vi"/>
-				<Item Name="NI.Munge.nirviCommon.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.nirviCommon.vi"/>
-				<Item Name="NI.Munge.Loop Counter Timer.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.Loop Counter Timer.vi"/>
-				<Item Name="NI.Munge.XDNodeRunTimeDep.lvlib" Type="Library" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/libs/NI.Munge.XDNodeRunTimeDep.lvlib/NI.Munge.XDNodeRunTimeDep.lvlib"/>
-				<Item Name="NI.Munge.FPGAsubPulse.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.FPGAsubPulse.vi"/>
-				<Item Name="NI.Munge.niFpgaGetScratchAppInstance.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.niFpgaGetScratchAppInstance.vi"/>
-				<Item Name="NI.Munge.nirviEmuReportErrorAndStop.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.nirviEmuReportErrorAndStop.vi"/>
-				<Item Name="NI.Munge.nirviEmuTemplateMethod_errors.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.nirviEmuTemplateMethod_errors.vi"/>
-				<Item Name="NI.Munge.nirviEmuTemplateMethod_noerrors.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.nirviEmuTemplateMethod_noerrors.vi"/>
-				<Item Name="NI.Munge.FPGAvi.vi" Type="VI" URL="../../../../../../NIFPGA2009/clntTmp/MOT2_FPGATarg~A7_FPGAvi_u6bbq0zq~A8/OriginalsMinusClasses/vis/NI.Munge.FPGAvi.vi"/>
 			</Item>
 			<Item Name="Build Specifications" Type="Build"/>
 		</Item>
