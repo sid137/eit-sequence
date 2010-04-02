@@ -1,0 +1,4 @@
+Counting Columns in a txt file
+
+
+awk 'BEGIN {FS="\t"} ; END{print NF}' filename
